@@ -1,0 +1,40 @@
+
+h1 {
+    font-family: Helvetica, Arial, san-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(photos/pattern.jpg);
+}
+
+ .brushes h2{
+    font-family: Helvetica, Arial, san-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames h2{
+    font-family: Helvetica, Arial, san-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    font-family: Helvetica, Arial, san-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+span{
+    font-family: Helvetica, Arial, san-serif;
+    font-weight: bold;
+    color: blue;
+
+}
